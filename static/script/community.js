@@ -6,12 +6,12 @@ function community(app) {
         'div', 
         [
             app.createElement('section', [
-                app.createElement('p', 'You are being taken to the unofficial Incog server (discord.gg/J3VPy5Vy8x).', {
+                app.createElement('p', 'You are being taken to the official Andyum server (https://discord.gg/MsbeNvVq6q).', {
                         style: {
                             'margin-bottom': '0'
                         }
                     }),
-                    app.createElement('p', 'Are you sure you want to <a href="https://discord.gg/J3VPy5Vy8x">proceed</a>?', {
+                    app.createElement('p', 'Are you sure you want to <a href="https://discord.gg/MsbeNvVq6q">proceed</a>?', {
                         style: {
                             'margin-bottom': '0'
                         }
